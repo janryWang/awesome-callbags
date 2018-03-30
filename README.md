@@ -4,14 +4,14 @@
 
 ## Table Contents
 
- - [Source factories](#Source factories)
- - [Sink factories](#Sink factories)
- - [Transformation operators](#Transformation operators)
- - [Filtering operators](#Filtering operators)
- - [Combination operators](#Combination operators)
- - [Utilities](#Utilities)
- - [Misc](#Misc)
- - [Redux middlewares](#Redux middlewares)
+ - [Source factories](#source-factories)
+ - [Sink factories](#sink-factories)
+ - [Transformation operators](#transformation-operators)
+ - [Filtering operators](#filtering-operators)
+ - [Combination operators](#combination-operators)
+ - [Utilities](#utilities)
+ - [Misc](#misc)
+ - [Redux middlewares](#redux-middlewares)
 
 
 ### Source factories
